@@ -1,0 +1,16 @@
+deployment
+.vscode
+.git*
+node_modules
+dist
+build
+npm-debug.log
+Dockerfile*
+docker-compose*
+.dockerignore
+.git
+.gitignore
+README.md
+LICENSE
+.vscode
+.gitlab-ci.yml

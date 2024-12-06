@@ -1,0 +1,13 @@
+@import './interFont.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif !important;
+
+  &.active,
+  &:focus {
+    box-shadow: none;
+    outline: none;
+  }
+}

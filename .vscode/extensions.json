@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "eg2.vscode-npm-script",
+    "orta.vscode-jest",
+    "wayou.vscode-todo-highlight",
+    "hbenl.vscode-test-explorer",
+    "WallabyJs.console-ninja",
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport"
+  ]
+}
